@@ -1,0 +1,25 @@
+body {
+  font-family: "Dosis", sans-serif;
+  line-height: 1.6;
+  background: #fff; }
+
+* {
+  margin: 0;
+  padding: 0; }
+
+a {
+  text-decoration: none;
+  color: #333; }
+
+ul {
+  list-style: none; }
+
+h3,
+h2,
+h4 {
+  text-transform: uppercase; }
+
+header-home {
+  background-image: url("../img/showcase.psd");
+  height: 100vp;
+  color: #fff; }
